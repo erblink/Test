@@ -51,6 +51,5 @@ namespace movie_rating_backend.Services
             return movie;
         }
 
-        // Implement other methods defined in IMovieService
     }
 }
